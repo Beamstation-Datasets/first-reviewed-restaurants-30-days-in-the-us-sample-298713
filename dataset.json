@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "All restaurants in the US that received their first review within the last 30 days",
+  "config_name": "First Reviewed Restaurants < 30 days in the US",
+  "export_job_id": "ecfe6e18-3977-4639-bfe7-ba8242e67d7f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 298713,
+  "location_name": "United States",
+  "location_type": "country",
+  "repo_name": "first-reviewed-restaurants-30-days-in-the-us-sample-298713",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/298713/beamstation_298713_restaurants-us-us_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 229,
+  "sample_sha256": "4e7490c057a967be18189624d44fd660123bf66094185cb07d9736b56362ea3f",
+  "sample_size_bytes": 770169,
+  "total_records": 2290,
+  "updated_at": "2026-04-08T02:26:34.603083+00:00"
+}
