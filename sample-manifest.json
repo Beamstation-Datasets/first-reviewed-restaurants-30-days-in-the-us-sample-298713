@@ -1,0 +1,12 @@
+{
+  "export_job_id": "ecfe6e18-3977-4639-bfe7-ba8242e67d7f",
+  "id_short": 298713,
+  "published_at": "2026-04-11T19:20:35Z",
+  "repo_name": "first-reviewed-restaurants-30-days-in-the-us-sample-298713",
+  "sample_asset_name": "beamstation_298713_restaurants-us-us_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/298713/beamstation_298713_restaurants-us-us_SAMPLE_DIST.csv",
+  "sample_records": 229,
+  "sample_sha256": "4e7490c057a967be18189624d44fd660123bf66094185cb07d9736b56362ea3f",
+  "sample_size_bytes": 770169,
+  "total_records": 2290
+}
